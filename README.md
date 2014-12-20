@@ -18,6 +18,7 @@ Rename package.json as package.json.old.
 npm init
 ```
 Copy devDependencies section from package.json.old into package.json.
+
 Delete package.json.old.
 
 **Install development dependencies**
