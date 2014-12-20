@@ -12,12 +12,13 @@ http://nodejs.org/
 ```
 npm install -g grunt-cli bower
 ```
-
+Rename package.json as package.json.old.
 **Manage development dependenies**
 ```
 npm init
 ```
-copy devDependencies section from package.devDependencies.json into package.json
+Copy devDependencies section from package.json.old into package.json.
+Delete package.json.old.
 
 **Install development dependencies**
 ```
