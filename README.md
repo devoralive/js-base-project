@@ -1,3 +1,5 @@
+[![Dependency Status](https://gemnasium.com/devoralive/js-base-project.svg)](https://gemnasium.com/devoralive/js-base-project)
+
 ##How to start
 
 ###Project installation :
